@@ -1,0 +1,28 @@
+1. In command prompt on the specific folder (where your current code is, in that location, we need to choose the path of our git)
+
+2. git  (make sure that git installed in our machine)
+
+3. git init  (Initializing Git)
+
+4. git add .  (It will add the local file in this place)
+
+5. git commit -m "This is first code"  ( We are commiting the file in a local. eg: git commit -m "we can type any message while commiting this code" )
+                                       (It will display all the code that is checked in the local)
+
+6. git config --global user.email "my_email@gmail.com"  (Enter my email id)
+
+7. git config --global user.name "Enter_my_user_name"   (Entering my user name)
+
+8. git branch -M main  (Creating Main Brach. To push the code inside this branch. Note: we can create Master branch also)
+
+9. git remote add origin https://github.com/sanathanan/ML_GCP_1.git   (Placing my URL, where i need to checkin my code from Local. i.e, I am checkin my code from local to Github )
+
+10.git push -u origin main  (I am pushing my code from local to Github)
+
+11.git push https://github.com/sanathanan/ML_GCP_1.git
+
+12.history
+
+13.hist
+
+14.doskey /history
